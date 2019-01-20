@@ -10,7 +10,6 @@ Requires:	compat-python36
 Requires:	compat-python36-core
 Requires:	compat-python36-dev
 Requires:	compat-python36-lib
-Requires:	compat-python36-lib-avx2
 
 %description
 Helper files
