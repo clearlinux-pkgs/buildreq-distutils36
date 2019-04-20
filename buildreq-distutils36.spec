@@ -1,6 +1,6 @@
 Name:           buildreq-distutils36
 Version:        2
-Release:        8
+Release:        9
 License:        GPL-2.0
 Summary:        Helper files
 Url:            https://clearlinux.org/
